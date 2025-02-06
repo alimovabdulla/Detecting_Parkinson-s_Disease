@@ -21,7 +21,7 @@ The goal of this project is to build a machine learning model that can predict t
 The dataset used for this project is the Parkinson’s Disease dataset, which contains data on various features such as voice and motor characteristics of individuals. The target variable is the `status` column, where 0 indicates no Parkinson’s disease and 1 indicates the presence of Parkinson’s disease.
 
 - **Data source**: Kaggle Parkinson’s Disease dataset
-- **Link**: [Parkinson's Disease Dataset on Kaggle](https://www.kaggle.com/datasets)
+- **Link**: [Parkinson's Disease Dataset on Kaggle]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/vikasukani/parkinsons-disease-data-set))
 
 ## Model Architecture
 
